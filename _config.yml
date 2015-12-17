@@ -1,7 +1,7 @@
 name: Hello Grid
 favicon: null
-layout_spectrum: 0.1138427066616714
-typography_spectrum: 0.030499720480293036
+layout_spectrum: 1
+typography_spectrum: 0.26258
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#99a836'
   brandStrength: 0.1875
   lightness: 0.5804961032699794
-  saturation: 0.3297797159757465
-  rhythmicContrast: 0.10296208085492253
+  saturation: 0.1875
+  rhythmicContrast: 0
 purpose: []
